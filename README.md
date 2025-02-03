@@ -1,3 +1,4 @@
+![image_alt](https://github.com/BeyondThePlate/Google-Cloud-x-MLB-TM-Hackathon/blob/main/resources/logo.png?raw=true)
 # ⚾ Beyond The Plate: Baseball for Everyone!  
 
 Baseball isn’t just a sport—it’s a passion that unites people across all ages and backgrounds.  
