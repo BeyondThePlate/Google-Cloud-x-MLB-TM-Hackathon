@@ -9,12 +9,6 @@ Powered by **Google Cloud’s cutting-edge tools**, we’re transforming basebal
 
 💡 **No expensive gear required. No boundaries. Just you, your passion, and a simple device.**  
 
-## 🚀 Get Started  
-🔹 **Step up to the plate** and be part of the future of baseball!  
-
-Let’s play! 🔥  
-
-
 # 🎥 Advanced Baseball Video Processing 🚀  
 
 Take full control over how your baseball videos are processed!  
