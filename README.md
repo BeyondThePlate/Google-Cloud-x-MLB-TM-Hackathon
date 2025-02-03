@@ -1,5 +1,3 @@
-# Google-Cloud-x-MLB-TM-Hackathon
-
 # ⚾ Beyond The Plate: Baseball for Everyone!  
 
 Baseball isn’t just a sport—it’s a passion that unites people across all ages and backgrounds.  
