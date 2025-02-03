@@ -13,4 +13,4 @@ Powered by **Google Cloud’s cutting-edge tools**, we’re transforming basebal
 
 Let’s play! 🔥  
 
-https://github.com/BeyondThePlate/Google-Cloud-x-MLB-TM-Hackathon/blob/main/resources/videos/ballBB.mp4
+https://github.com/user-attachments/assets/8b28c09d-6f61-4384-8d9a-e7b02809a248
