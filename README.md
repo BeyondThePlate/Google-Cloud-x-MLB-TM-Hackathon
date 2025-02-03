@@ -12,3 +12,6 @@ Powered by **Google Cloud’s cutting-edge tools**, we’re transforming basebal
 🔹 **Step up to the plate** and be part of the future of baseball!  
 
 Let’s play! 🔥  
+
+[https://github.com/KULLANICI_ADI/REPO_ADI/raw/main/videos/demo.mp4
+](https://github.com/BeyondThePlate/Google-Cloud-x-MLB-TM-Hackathon/blob/main/resources/videos/ballBB.mp4)
