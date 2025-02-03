@@ -22,17 +22,17 @@ With **20 customizable parameters**, you can choose exactly what you want and le
 ## ⚡ Customize Your Analysis  
 Select any combination of the following parameters to tailor your experience:  
 
-- 🟢 **Ball Tracking**:  
+- ⚾ **Ball Tracking**:  
   - Ball Boundary Box  
   - Ball Line Draw  
 
-- ⚾ **Bat & Glove Detection**:  
+- 🧤 **Bat & Glove Detection**:  
   - Bat Boundary Box  
   - Bat Line Draw  
   - Glove Boundary Box  
   - Glove Line Draw  
 
-- 🎯 **Player Analysis**:  
+- 🧢 **Player Analysis**:  
   - Pitcher Boundary Box  
   - Pitcher Pose  
   - Catcher Boundary Box  
@@ -58,7 +58,6 @@ Select any combination of the following parameters to tailor your experience:
 3️⃣ Let our system process it for you!  
 
 Transform your baseball footage into **actionable insights** like never before.  
-Are you ready to revolutionize your game? Let's play! ⚾🔥  
 
 
 
