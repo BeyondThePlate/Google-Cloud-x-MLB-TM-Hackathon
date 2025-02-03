@@ -13,8 +13,4 @@ Powered by **Google Cloud’s cutting-edge tools**, we’re transforming basebal
 
 Let’s play! 🔥  
 
-[<video width="100%" controls>
-  <source src="resources/videos/ballBB.mp4" type="mp4">
-  Your browser does not support the video tag.
-</video>
-](https://github.com/BeyondThePlate/Google-Cloud-x-MLB-TM-Hackathon/blob/main/resources/videos/ballBB.mp4)
+https://github.com/BeyondThePlate/Google-Cloud-x-MLB-TM-Hackathon/blob/main/resources/videos/ballBB.mp4
