@@ -1,0 +1,6 @@
+tflite
+cv2
+numpy
+matplotlib
+google-cloud-vision
+mediapipe
