@@ -4,6 +4,17 @@
 Baseball isn’t just a sport—it’s a passion that unites people across all ages and backgrounds.  
 At **Beyond The Plate**, we’re taking this passion to the next level! 🚀  
 
+<div align="center">
+  <h1>Welcome!</h1>
+  <p>
+    <a href="https://www.youtube.com/watch?v=Dwu_YIyABSs" target="_blank" 
+       style="font-size: 24px; font-weight: bold;">
+      <strong>Our Project Video</strong>
+    </a>
+  </p>
+</div>
+
+
 ## 🌟 About Us  
 Powered by **Google Cloud’s cutting-edge tools**, we’re transforming baseball into an **interactive, fun, and personalized experience** like never before.  
 
